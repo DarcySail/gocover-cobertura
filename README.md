@@ -14,7 +14,7 @@ Installation
 Just type the following to install the program and its dependencies:
 
     $ go get code.google.com/p/go.tools/cmd/cover
-    $ go get github.com/t-yuki/gocover-cobertura
+    $ go get github.com/DarcySail/gocover-cobertura
 
 Usage
 -----
